@@ -1,0 +1,109 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+  margin: 32px; 
+}
+
+h1 {
+  font-size: 20px; 
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.profile-picture img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  font-size: 32px; 
+  margin: 32px 0;
+  text-align: center;
+  background-color: lightsteelblue;
+  border: 1px solid #000;
+  padding: 16px;
+}
+
+li {
+  font-size: 24px; 
+  margin-bottom: 24px;
+  margin-left: 80px; 
+}
+
+p {
+  text-indent: 30px;
+  font-size: 20px; 
+  margin-left: 80px; 
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.fit-picture {
+  width: 150px;
+  margin: 32px 0;
+}
+
+.message-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+#name, 
+#message {
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#comment_button {
+  width: 200px;
+}
+
+.comment-button {
+  margin-top: 10px;
+}
+
+.goals {
+  background-color: lightgray;
+  border: 1px solid #000;
+  padding: 16px;
+  margin-top: 20px;
+}
+
+.goals h2 {
+  font-size: 28px;
+  margin-top: 16px;
+  text-align: center;
+}
+
+.goals ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.goals ul li {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.sort-order {
+  margin-top: 16px;
+  text-align: center;
+}
