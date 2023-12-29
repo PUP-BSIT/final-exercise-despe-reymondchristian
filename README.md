@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nn2YhwXT)
+# Reymond Christian Personal Website
+
+Welcome to my personal website! 🌐 Explore my portfolio, read my blog, 
+and connect with me.
+
+## Explore
+
+- **Portfolio:** Check out my latest projects and work.
+- **Blog:** Read my thoughts and ideas on various topics.
+
+## Connect
+
+- 🌐 Website: [https://despe-reymondchristian.netlify.app/]
+(https://despe-reymondchristian.netlify.app/)
+
+Thanks for visiting! 🚀
